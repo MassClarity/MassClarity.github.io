@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="399px" height="415px" viewBox="0 0 399 415" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>figure2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-180.000000, -1155.000000)">
+            <g id="section.opportunity" transform="translate(0.000000, 1024.000000)">
+                <g id="figure2" transform="translate(170.000000, 131.000000)">
+                    <polygon id="Polygon" fill="url(#linearGradient-1)" points="209.5 19 408.74634 158.578567 332.64101 384.421433 86.3589896 384.421433 10.2536598 158.578567"></polygon>
+                    <rect id="Rectangle" fill="#3F51B5" x="89" y="262" width="117" height="122"></rect>
+                    <rect id="Rectangle" fill="#37378F" x="211" y="0" width="117" height="384"></rect>
+                    <circle id="Oval" fill="#37378F" cx="219" cy="406" r="6"></circle>
+                    <circle id="Oval" fill="#3F51B5" cx="97" cy="406" r="6"></circle>
+                    <text id="Annual-Spend-on-Data" font-family="Roboto-Light, Roboto" font-size="13" font-weight="300" fill="#243038">
+                        <tspan x="239" y="412">Annual Spend on Data</tspan>
+                    </text>
+                    <text id="Accuracy-Rate" font-family="Roboto-Light, Roboto" font-size="13" font-weight="300" fill="#243038">
+                        <tspan x="117" y="412">Accuracy Rate</tspan>
+                    </text>
+                    <text id="$100B+" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="241.824219" y="17">$100B+</tspan>
+                    </text>
+                    <text id="50%" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="132.636719" y="279">50%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
